@@ -1,4 +1,4 @@
-package mnist
+package mnistdl
 
 import (
 	"fmt"
